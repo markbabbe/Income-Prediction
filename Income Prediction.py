@@ -36,7 +36,7 @@ warnings.filterwarnings('ignore')
 # Read in the training data
 train = os.path.join("..", "income-prediction", "income_train.csv")
 train = pd.read_csv("C://Users/babbe/OneDrive/GitPractice/income-prediction/income_train.csv")
-train[:2]
+train[:5]
 
 
 # In[3]:
